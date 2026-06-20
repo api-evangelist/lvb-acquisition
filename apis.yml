@@ -2,7 +2,7 @@ aid: lvb-acquisition
 name: LVB Acquisition
 url: https://raw.githubusercontent.com/api-evangelist/lvb-acquisition/refs/heads/main/apis.yml
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Medical Devices
   - Orthopedics
