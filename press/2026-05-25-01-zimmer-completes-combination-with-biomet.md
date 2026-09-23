@@ -1,7 +1,9 @@
 ---
 title: Zimmer Completes Combination with Biomet
 url: https://www.prnewswire.com/news-releases/zimmer-completes-combination-with-biomet-300104244.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LVB Acquisition" press release artificial intelligence'
 position: 1
 source: serpapi-google
